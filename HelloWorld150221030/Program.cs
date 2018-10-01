@@ -12,6 +12,7 @@ namespace HelloWorld150221030
 {
     public class Program
     {
+        //Comentário de Teste
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
